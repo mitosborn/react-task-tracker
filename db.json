@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Get Groceries",
+      "day": "Today",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Buy Dog Food",
+      "day": "Monday",
+      "reminder": true
+    },
+    {
+      "text": "Nehmen Fußball",
+      "day": "Jetzt",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "jkl",
+      "day": "jklj",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
